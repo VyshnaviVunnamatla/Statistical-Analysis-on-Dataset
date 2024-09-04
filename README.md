@@ -15,7 +15,7 @@ Statistical analysis.ipynb: Main Jupyter Notebook containing all the analysis st
 
 CONTENTS
 
-1. Data Exploration
+1.Data Exploration
    Data Loading and Cleaning: Initial steps to load the dataset, handle missing values, and clean the data for further analysis.
    Descriptive Statistics: Summarizing the central tendency, dispersion, and shape of the dataset's distribution.
         Measures such as mean, median, mode, standard deviation, and variance are calculated.
@@ -26,10 +26,10 @@ CONTENTS
   Confidence Intervals: Provide a range of values that likely contain the population parameter.
   Regression Analysis: Examines relationships between variables.
 
-3. Hypothesis Testing
-   T-tests: Comparing means between two groups to determine if there is a significant difference.
-   ANOVA (Analysis of Variance): Testing differences between means for more than two groups.
-   Chi-Square Tests: Assessing relationships between categorical variables.
+3.Hypothesis Testing
+  T-tests: Comparing means between two groups to determine if there is a significant difference.
+  ANOVA (Analysis of Variance): Testing differences between means for more than two groups.
+  Chi-Square Tests: Assessing relationships between categorical variables.
 
 
 PREREQUISITES
@@ -54,7 +54,8 @@ USAGE
 git clone https://github.com/VyshnaviVunnamatla/Statistical-Analysis-on-Dataset.git cd Statistical-Analysis-on-Dataset
 
 2.Open the Jupyter Notebook:
-jupyter notebook "Statistical analysis.ipynb"
+               
+    "Statistical analysis.ipynb"
 
 3.Run the Cells:
 
