@@ -6,9 +6,12 @@ OVERVIEW
 This project showcases statistical analysis on a dataset using Python. The analysis includes descriptive statistics, hypothesis testing, and data visualization techniques. The notebook is aimed at understanding data distributions, relationships, and deriving insights.
 
 
+
 FILES
 
 Statistical analysis.ipynb: Main Jupyter Notebook containing all the analysis steps.
+
+
 
 CONTENTS
 
@@ -17,8 +20,13 @@ CONTENTS
    Descriptive Statistics: Summarizing the central tendency, dispersion, and shape of the dataset's distribution.
         Measures such as mean, median, mode, standard deviation, and variance are calculated.
         Distribution plots and histograms to visualize the data.
+   
+2.Inferential Statistics in Python
+  Hypothesis Testing: Used to determine whether there is enough evidence to reject a null hypothesis.
+  Confidence Intervals: Provide a range of values that likely contain the population parameter.
+  Regression Analysis: Examines relationships between variables.
 
-2. Hypothesis Testing
+3. Hypothesis Testing
    T-tests: Comparing means between two groups to determine if there is a significant difference.
    ANOVA (Analysis of Variance): Testing differences between means for more than two groups.
    Chi-Square Tests: Assessing relationships between categorical variables.
@@ -36,7 +44,8 @@ To run the notebook, you need the following Python libraries installed:
 
 You can install these packages using pip:
 
-pip install pandas numpy matplotlib seaborn statsmodels scipy
+    pip install pandas numpy matplotlib seaborn statsmodels scipy
+
 
 
 USAGE
@@ -53,6 +62,7 @@ Follow the notebook cell-by-cell to see the statistical analysis being performed
 Modify the dataset or statistical tests to explore further.
 
 
+
 INSIGHTS
 
 Descriptive Insights: Identifying key statistical measures of central tendency and variability.
@@ -60,9 +70,11 @@ Visual Patterns: Visualizing trends, outliers, and relationships between variabl
 Statistical Inference: Drawing conclusions from hypothesis testing results.
 
 
+
 CONCLUSION
 
 This project serves as a comprehensive guide to performing statistical analysis using Python, aimed at data scientists and analysts who wish to explore and interpret datasets effectively.
+
 
 
 CONTRIBUTING 
