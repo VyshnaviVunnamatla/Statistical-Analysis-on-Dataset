@@ -15,23 +15,38 @@ Statistical analysis.ipynb: Main Jupyter Notebook containing all the analysis st
 
 CONTENTS
 
-1.Data Exploration
-   Data Loading and Cleaning: Initial steps to load the dataset, handle missing values, and clean the data for further analysis.
+1.Data Exploration:
+
+   Data Loading and Cleaning: Initial steps to load the dataset, handle missing values, and clean the data for further
+   analysis.
    Descriptive Statistics: Summarizing the central tendency, dispersion, and shape of the dataset's distribution.
         Measures such as mean, median, mode, standard deviation, and variance are calculated.
         Distribution plots and histograms to visualize the data.
    
-2.Inferential Statistics in Python
-  Hypothesis Testing: Used to determine whether there is enough evidence to reject a null hypothesis.
-  Confidence Intervals: Provide a range of values that likely contain the population parameter.
-  Regression Analysis: Examines relationships between variables.
+2.Descriptive Statistics:
 
-3.Hypothesis Testing
+  Calculation of key statistical measures such as mean, median, variance, and standard deviation.
+  Exploration of data distributions using histograms and box plots.
+
+3.Hypothesis Testing:
+
   T-tests: Comparing means between two groups to determine if there is a significant difference.
   ANOVA (Analysis of Variance): Testing differences between means for more than two groups.
   Chi-Square Tests: Assessing relationships between categorical variables.
 
+4.Regression Analysis:
 
+  Fitting linear regression models to explore relationships between dependent and independent variables.
+  Interpretation of regression coefficients, p-values, and R-squared values.  
+
+5.Visualizations:
+
+  Scatter plots with regression lines to visualize relationships between variables.
+  Residual plots to check the fit of the regression model and diagnose potential issues.
+  Additional visualizations to support analysis and findings.
+
+
+  
 PREREQUISITES
 
 To run the notebook, you need the following Python libraries installed:
@@ -81,3 +96,11 @@ This project serves as a comprehensive guide to performing statistical analysis 
 CONTRIBUTING 
 
 Feel free to fork this repository, open issues, and submit pull requests to improve the analysis or add new features.
+
+
+Contact
+For questions or feedback, please contact:
+
+Author: Vyshnavi Vunnamatla
+GitHub: VyshnaviVunnamatla
+Email: [vyshnavivunnamatla.2105@gmail.com]
