@@ -1,4 +1,4 @@
-# Statistical Analysis on Time series Stock Price dataset
+# Statistical Analysis on Life Expectancy dataset
 
 
 OVERVIEW
